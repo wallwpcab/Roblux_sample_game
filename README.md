@@ -4,10 +4,10 @@ A crappy TASing script I made.
 ## What is a TAS?
 A TAS, or Tool-Assisted Speedrun/Superplay, is a run of the game that uses tools like slowdown and savestates to either create an entertaining gameplay video or to create a "perfect" speedrun.
 These links should explain everything about TASing.
-- [How to create the perfect speedrun - Tool-assisted speedrunning explained](https://www.youtube.com/watch?v=Ietk1-Wb7oY)
-- [Introduction to TAS: Tool-Assisted Speedrunning (What, How, Why?)](https://www.youtube.com/watch?v=R3-ohYvi_fc)
-- [TASVideos / Welcome to TAS Videos](http://tasvideos.org/WelcomeToTASVideos.html)
-- [Tool-assisted speedrun - Wikipedia](https://en.wikipedia.org/wiki/Tool-assisted_speedrun)
+- [How to create the perfect speedrun - Tool-assisted speedrunning explained]
+- [Introduction to TAS: Tool-Assisted Speedrunning (What, How, Why?)]
+- [TASVideos / Welcome to TAS Videos]
+- [Tool-assisted speedrun - Wikipedia]
 
 ## How does this system work?
 This system simply saves all states of the game and plays them back, unlike what TASing emulators/programs (e.g. Mupen64-rr, BizHawk, libTAS) normally do, which is record sequences of controller inputs and feeding those inputs into the game when playing the movie file back.
